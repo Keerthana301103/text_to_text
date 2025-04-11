@@ -3,3 +3,4 @@ uvicorn
 python-multipart
 torch
 transformers
+hf_xet
